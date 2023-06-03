@@ -62,3 +62,5 @@
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
 ![image](https://github.com/nazarch2000/13-03/assets/106932460/b3cbd263-61d4-44ba-a104-9c9a20cacca9)
+![image](https://github.com/nazarch2000/13-03/assets/106932460/6f420c9a-161d-411b-afa8-24436b654cb6)
+
