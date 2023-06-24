@@ -31,6 +31,8 @@
 
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
+### Suricata ничего не предпринял
+![image](https://github.com/nazarch2000/13-03/assets/106932460/44b314c1-031d-4cdc-9d7e-266d64e1fa00)
 
 ------
 
@@ -64,3 +66,4 @@
 ![image](https://github.com/nazarch2000/13-03/assets/106932460/b3cbd263-61d4-44ba-a104-9c9a20cacca9)
 ![image](https://github.com/nazarch2000/13-03/assets/106932460/6f420c9a-161d-411b-afa8-24436b654cb6)
 
+![image](https://github.com/nazarch2000/13-03/assets/106932460/86a7da59-598f-4406-86e5-aacffbf3e89c)
